@@ -83,7 +83,7 @@ button {
     text-align: center;
 }
 
-/* Tarea completada */
+/* Tareas completadas */
 
 .tarea.completada {
     text-decoration: line-through;
